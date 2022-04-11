@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">60135847_tuan5_bai2</string>
+    <string name="So">So</string>
+    <string name="Calculate_your_tip">CALCULATE YOUR TIP</string>
+    <string name="Login">Login</string>
+    <string name="Attempts">Attempts</string>
+    <string name="Login_page">Login Page</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+</resources>
